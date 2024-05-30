@@ -1,2 +1,15 @@
-# go
-Golang Resources
+# Golang Resources
+
+- [Go Style Best Practices](https://google.github.io/styleguide/go/best-practices)
+- [A Tour Of Go](https://go.dev/tour/welcome/1)
+- [Go by Example](https://gobyexample.com/)
+- [Go Tutorials & Examples]()
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Getting up and running with Go](http://www.golangprograms.com/)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Go Design Patterns](https://github.com/tmrts/go-patterns)
+- [Go Memory Management](https://povilasv.me/go-memory-management)
+- [Style Guide](https://google.github.io/styleguide/go/guide)
+- [Style Decisions](https://google.github.io/styleguide/go/decisions)
+- [Best Practices](https://google.github.io/styleguide/go/best-practices)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
